@@ -1,6 +1,7 @@
 # Advice App
 
 A React app that generates random pieces of advice using the Advice Slip API.
+Live version: [AdviceApp](https://egnoeladiviceapp.netlify.app/)
 
 ![Advice_app](/src/images/advice.png)
 
